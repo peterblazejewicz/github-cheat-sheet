@@ -1,9 +1,9 @@
-# GitHub Cheat Sheet
-A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+# Ściągawka z GitHuba
+Zbiór mniej znanych i ukrytych funkcji Gita i GitHuba. Ta ściągawka powstała z inpiracji prezentacją [Zacha Holmana](https://github.com/holman) [Tajniki Gita i GitHuba](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) z Aloha Ruby Conference 2012 ([slajdy](https://speakerdeck.com/holman/git-and-github-secrets)) oraz jego innej prezentacji [Więcej Tajników Gita i GitHuba](https://vimeo.com/72955426) z WDCNZ 2013 ([slajdy](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
-*Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
+*Krótki link: [`http://git.io/sheet`](http://git.io/sheet)*
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [Polski](README.pl.md), [简体中文](README.zh-cn.md).*
+*Tekst dostępny w innych językach: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [Polski](README.pl.md), [简体中文](README.zh-cn.md).*
 
 ## Table of Contents
  - [GitHub](#github)
