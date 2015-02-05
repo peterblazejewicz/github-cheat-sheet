@@ -5,19 +5,19 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [Polski](README.pl.md), [简体中文](README.zh-cn.md).*
 
-## Table of Contents
+## Spis treści
  - [GitHub](#github)
-  - [Ignore Whitespace](#ignore-whitespace)
-  - [Adjust Tab Space](#adjust-tab-space)
-  - [Commit History by Author](#commit-history-by-author)
-  - [Cloning a Repository](#cloning-a-repository)
+  - [Pomiń białeznaki](#ignore-whitespace)
+  - [Dostosuj wielkość tabulacji](#adjust-tab-space)
+  - [Historia komitów według autora](#commit-history-by-author)
+  - [Klonowanie repozytorium](#cloning-a-repository)
   - [Branch](#branch)
-    - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
-    - [Comparing Branches](#comparing-branches)
-    - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
+    - [Porównywanie wszystkich branchy do innych branchy](#compare-all-branches-to-another-branch)
+    - [Porównywanie branchy](#comparing-branches)
+    - [Porównywanie branchy pomiędzy forkowanymi repozytoriami](#compare-branches-across-forked-repositories)
   - [Gists](#gists)
   - [Git.io](#gitio)
-  - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Skróty klawiaturowe](#keyboard-shortcuts)
   - [Line Highlighting in Repositories](#line-highlighting-in-repositories)
   - [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
   - [Cross-Link Issues](#cross-link-issues)
